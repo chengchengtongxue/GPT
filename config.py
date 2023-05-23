@@ -1,7 +1,7 @@
 # [step 1]>> 例如： API_KEY = "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" （此key无效）
 # API_KEY = "sk-此处填API密钥"    # 可同时填写多个API-KEY，用英文逗号分割，例如API_KEY = "sk-openaikey1,sk-openaikey2,fkxxxx-api2dkey1,fkxxxx-api2dkey2"
 # API_KEY = "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"
-API_KEY = "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"
+API_KEY = "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"
 # [step 2]>> 改为True应用代理，如果直接在海外服务器部署，此处不修改
 USE_PROXY = False
 if USE_PROXY:
